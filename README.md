@@ -35,7 +35,7 @@ grep "...-...-...." names.txt
 - grep -wirl "John Williams" . (current dir mai complete indept search with i and w)
 
 ### Some commons
-- pbcopy, head, tail, more, less, uniq, sort, > save to file, >> append to file
+- pbcopy, head, tail, more, less, uniq, sort, > save to file, >> append to file, tar, jar, war
 
 ### awk
 
