@@ -33,3 +33,10 @@ grep "...-...-...." names.txt
 - B 4 (4 line before) : A after : C surrounding line
 - r means recursive
 - grep -wirl "John Williams" . (current dir mai complete indept search with i and w)
+
+### Some commons
+- pbcopy, head, tail, more, less, uniq, sort, > save to file, >> append to file
+
+### awk
+
+### cut
