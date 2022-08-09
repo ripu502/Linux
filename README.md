@@ -24,6 +24,10 @@ history | grep "git commit"
 history | grep "git commit" | grep "dotfile"
 
 grep "...-...-...." names.txt
+
+grep -ro 'word_to_search_in_directory' .
+sed -i 's/previous_word/new_word/g' file_in_which_to_replace
+
 ```
 
 #### flag
